@@ -13,6 +13,7 @@ Then:
 ./s2s.py mystlfile.stl > output.scad
 ```
 
+Useful in combination with e.g. https://github.com/muldjord/lithomaker
 
 
 Folkert van Heusden
