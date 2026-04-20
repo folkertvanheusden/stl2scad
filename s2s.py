@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 from stl import mesh
-import numpy
 import sys
 
 def v2s(v):
